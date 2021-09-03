@@ -109,6 +109,10 @@ const X = "❌"
 const O = "⭕️"
 
 ///////////////////////////////////////////////////////////////////////////
+case 'fotoa':
+const imagen = fs.readFileSync('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpeHmJ5Hzmj7tVSF-upMI-vxQYKhbsm8Hdw&usqp=CAU')
+client.sendMessage(from, imagen, MessageType.image)
+break
 
 //========= Funcion de Registro =========\\
 
