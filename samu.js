@@ -1167,7 +1167,7 @@ _Tipo de usuario:_ ${tipoDeUsr}
 							
 🕐Son las *${hora}*\n\n🍃Hoy es *${week1}  ${calender1}*
 							
-⍣ *BOT INFO* ⍣
+⍣ *BOT juanraa INFO* ⍣
 ${samu}◦ 🌐Navegador :${samu} *${samu330.browserDescription[1]}*
 ${samu}◦ 📡servidor :${samu} *${samu330.browserDescription[0]}*
 ${samu}◦ ✅version :${samu} *${samu330.browserDescription[2]}*
@@ -1189,7 +1189,7 @@ En el grupo podras aprender a:
 🗡NO SE PERMITEN ENLACES!!
 
 ${opcion}`,
-							"buttonText": "Selecciona tu menu",
+							"buttonText": "Selecciona ",
 							"listType": "SINGLE_SELECT",
 							"sections": [
 								{
