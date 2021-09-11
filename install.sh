@@ -14,15 +14,17 @@ echo -e '\e[1;32m
                                                        
                                                        
 \e[0m\e[1;33m
- ____                                         
-/\  _`\      \e[0m\e[1;36mNyanBot By\e[0m\e[1;33m                                 
-\ \,\L\_\      __       ___ ___     __  __    
- \/_\__ \    /`__`\   /` __` __`\  /\ \/\ \   
-   /\ \L\ \ /\ \L\.\_ /\ \/\ \/\ \ \ \ \_\ \  
-   \ `\____\\ \__/.\_\\ \_\ \_\ \_\ \/`____ \ 
-    \/_____/ \/__/\/_/ \/_/\/_/\/_/  `/___/> \
-                                        /\___/
-                                        \/__/ 
+ ____                                                                                                                                                                         
+   `7MMF'                                     `7MM"""Mq.      `7MM"""YMM                                    mm                     
+     MM                                         MM   `MM.       MM    `7                                    MM                     
+     MM  `7MM  `7MM   ,6"Yb.  `7MMpMMMb.        MM   ,M9        MM   d   `7MM  `7MM   .gP"Ya  `7MMpMMMb.  mmMMmm   .gP"Ya  ,pP"Ybd 
+     MM    MM    MM  8)   MM    MM    MM        MMmmdM9         MM""MM     MM    MM  ,M'   Yb   MM    MM    MM    ,M'   Yb 8I   `" 
+     MM    MM    MM   ,pm9MM    MM    MM        MM  YM.         MM   Y     MM    MM  8M""""""   MM    MM    MM    8M"""""" `YMMMa. 
+(O)  MM    MM    MM  8M   MM    MM    MM        MM   `Mb.       MM         MM    MM  YM.    ,   MM    MM    MM    YM.    , L.   I8 
+ Ymmm9     `Mbod"YML.`Moo9^Yo..JMML  JMML.    .JMML. .JMM.    .JMML.       `Mbod"YML. `Mbmmd' .JMML  JMML.  `Mbmo  `Mbmmd' M9mmmP' 
+                                                                                                                                   
+                                                                                                                                   
+Positiva593   Informe negativo236
  ____                                         
 /\  _`\    \e[0m\e[1;31mSam y Perry\e[0m\e[1;33m                                   
 \ \ \L\ \   __    _ __   _ __   __  __        
